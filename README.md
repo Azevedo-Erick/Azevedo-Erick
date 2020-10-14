@@ -1,6 +1,8 @@
+Hi there, I'm Erick!
+
 **ABOUT ME:** <br />
 🎂I'm 18 years old;<br />
-💻I'm current learning: ***REACT JS<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg">, DOCKER AND DATABASES (NOSQL & MYSQL);***<br />
+💻I'm current learning: <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg">,<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg">, <img src"https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg">, DOCKER AND DATABASES (NOSQL & MYSQL);***<br />
 📒I'm cursing **Information Systems**;<br />
 👨‍💻Experience? No;<br>
 
