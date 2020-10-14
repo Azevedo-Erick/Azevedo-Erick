@@ -1,8 +1,10 @@
 **ABOUT ME:** <br />
-I'm 18 years old;<br />
-I'm current learning: ***REACT JS, DOCKER AND DATABASES (NOSQL & MYSQL);***<br />
-I'm cursing **Information Systems**;<br />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azevedo-Erick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)<br />
+🎂I'm 18 years old;<br />
+💻I'm current learning: ***REACT JS, DOCKER AND DATABASES (NOSQL & MYSQL);***<br />
+📒I'm cursing **Information Systems**;<br />
+👨‍💻Experience? No;<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azevedo-Erick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
