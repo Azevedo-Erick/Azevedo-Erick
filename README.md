@@ -1,6 +1,6 @@
 **ABOUT ME:** <br />
 🎂I'm 18 years old;<br />
-💻I'm current learning: ***REACT JS, DOCKER AND DATABASES (NOSQL & MYSQL);***<br />
+💻I'm current learning: ***REACT JS<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg">, DOCKER AND DATABASES (NOSQL & MYSQL);***<br />
 📒I'm cursing **Information Systems**;<br />
 👨‍💻Experience? No;<br>
 
