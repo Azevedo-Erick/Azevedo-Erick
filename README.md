@@ -1,4 +1,9 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azevedo-Erick&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azevedo-Erick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+ABOUT ME: 
+I'M 18 YEARS OLD;
+I'M CURRENT LEARNING REACT JS, DOCKER AND DATABASES (NOSQL & MYSQL);
+I'M CURSING INFORMATION SYSTEMS;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
