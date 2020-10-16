@@ -1,14 +1,13 @@
-Hi there, I'm Erick!
+**Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif">
 
 <hr>
 
 **ABOUT ME:**
 
-<ul>
-<li>Age: 18y.o;</li>
-<li>Cursing: Information Systems;</li>
-<li>Experience: No;</li>
-</ul>
+-Diria que possuo muito interesse em atuar no mercado mobile e tenho estudado **React** para isso, sou graduando em **Sistemas de Informação**. Possuo exatamente **18 anos** e tento aprender ao menos um pouquinho diariamente aqui no Github;<br>
+-Sou o tipo de pessoa que não gosta de redes sociais,porém gosta muito de games e lê vez ou outra;<br>
+-Alguém para admirar? **Linus Torvalds**, não admiro necessariamente sua maneira de viver, mas sim sua maneira de pensar.
+*“Não sou um visionário, não tenho um plano de cinco anos, sou um engenheiro. Estou perfeitamente bem com todas as pessoas que estão andando por aí e apenas olhando para as nuvens e olhando para as estrelas e dizem, eu quero para ir lá, mas estou olhando para o chão e quero consertar o buraco que está bem na minha frente antes de eu cair. "*-Linus Torvalds
 
 <hr>
 Languages and Tools (learned and learning):
