@@ -6,10 +6,8 @@
     </tr>   
 </table>
 </center>  
-<hr>
 **Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px" style="max-width:100%;">
 ![](https://komarev.com/ghpvc/?username=Azevedo-Erick&style=flat-square&color=blue)
-<br>
 <hr>
 
 **Um pouco sobre mim:**
