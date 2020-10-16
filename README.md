@@ -16,12 +16,12 @@
 <li>Sou o tipo de pessoa que não gosta de redes sociais,porém gosta muito de games e lê vez ou outra;</li>
 <li>Alguém para admirar? <b>Linus Torvalds</b>, não admiro necessariamente sua maneira de viver, mas sim sua maneira de pensar.</li>
     </ul>
-*“Não sou um visionário, não tenho um plano de cinco anos, sou um engenheiro. Estou perfeitamente bem com todas as pessoas que estão andando por aí e apenas olhando para as nuvens e olhando para as estrelas e dizem, eu quero para ir lá, mas estou olhando para o chão e quero consertar o buraco que está bem na minha frente antes de eu cair. "*-Linus Torvalds
+<i>“Não sou um visionário, não tenho um plano de cinco anos, sou um engenheiro. Estou perfeitamente bem com todas as pessoas que estão andando por aí e apenas olhando para as nuvens e olhando para as estrelas e dizem, eu quero para ir lá, mas estou olhando para o chão e quero consertar o buraco que está bem na minha frente antes de eu cair. "</i>-Linus Torvalds
 
 <hr>
 Linguagens e ferramentas(geral):
 
-![](https://komarev.com/ghpvc/?username=Azevedo-Erick&style=flat-square&color=blue)
+
 
 <!--
 -->
