@@ -1,8 +1,8 @@
-**Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif">
+**Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px" style="max-width:100%;">
 
 <hr>
 
-**ABOUT ME:**
+**Um pouco sobre mim:**
 
 -Diria que possuo muito interesse em atuar no mercado mobile e tenho estudado **React** para isso, sou graduando em **Sistemas de Informação**. Possuo exatamente **18 anos** e tento aprender ao menos um pouquinho diariamente aqui no Github;<br>
 -Sou o tipo de pessoa que não gosta de redes sociais,porém gosta muito de games e lê vez ou outra;<br>
