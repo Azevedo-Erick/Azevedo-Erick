@@ -1,5 +1,8 @@
-**Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px" style="max-width:100%;">
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azevedo-Erick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+**Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px" style="max-width:100%;">
+![](https://komarev.com/ghpvc/?username=Azevedo-Erick&style=flat-square&color=blueviolet)
 <hr>
 
 **Um pouco sobre mim:**
@@ -10,12 +13,8 @@
 *“Não sou um visionário, não tenho um plano de cinco anos, sou um engenheiro. Estou perfeitamente bem com todas as pessoas que estão andando por aí e apenas olhando para as nuvens e olhando para as estrelas e dizem, eu quero para ir lá, mas estou olhando para o chão e quero consertar o buraco que está bem na minha frente antes de eu cair. "*-Linus Torvalds
 
 <hr>
-Languages and Tools (learned and learning):
-<img src="https://camo.githubusercontent.com/7d45717e71c8130c598158129539b6823d839015/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/2ebfba68384dbb81cf5c5362f6856d50816e389d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/199d31f2a54e8675db13de6194e599bdda3992e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/83329fb35b579a50bd5eb9553811e8ec71cd78cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"><img src="https://camo.githubusercontent.com/83ae88a85d447498acd3f4f543ebe03d467c016d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img src="https://camo.githubusercontent.com/ca8c88cf058fd647ee886a60d78b2e9b1d425b3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/12d70f1cb1d5d0cf546c951a3f57f5eba78636d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/164a5821c85dbdb2cd0502bb05878d74b9ea037f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d7ae9225d41717de603a8f1b203b2bff9543e63b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e3c72ff8c616617254d1b5303370700edfdb9942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
-<hr>
+Linguagens e ferramentas(geral):
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azevedo-Erick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
