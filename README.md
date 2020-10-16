@@ -1,6 +1,7 @@
-
+<div>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azevedo-Erick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 <hr>
 **Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px" style="max-width:100%;">
 ![](https://komarev.com/ghpvc/?username=Azevedo-Erick&style=flat-square&color=blue)
