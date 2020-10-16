@@ -8,13 +8,13 @@
 </table>
 </center>  
 <hr>
-__Olá! Boas vindas :)__:wave:
+<b>Olá! Boas vindas :)</b>:wave:
 
 **Um pouco sobre mim:**
 <ul>
-<li>Diria que possuo muito interesse em atuar no mercado mobile e tenho estudado **React** para isso, sou graduando em **Sistemas de Informação**. Possuo exatamente <b>18 anos</b> e tento aprender ao menos um pouquinho diariamente aqui no Github;</li>
+<li>Diria que possuo muito interesse em atuar no mercado mobile e tenho estudado <b>React</b> para isso, sou graduando em <b>Sistemas de Informação</b>. Possuo exatamente <b>18 anos</b> e tento aprender ao menos um pouquinho diariamente aqui no Github;</li>
 <li>Sou o tipo de pessoa que não gosta de redes sociais,porém gosta muito de games e lê vez ou outra;</li>
-<li>Alguém para admirar? **Linus Torvalds**, não admiro necessariamente sua maneira de viver, mas sim sua maneira de pensar.</li>
+<li>Alguém para admirar? <b>Linus Torvalds</b>, não admiro necessariamente sua maneira de viver, mas sim sua maneira de pensar.</li>
     </ul>
 *“Não sou um visionário, não tenho um plano de cinco anos, sou um engenheiro. Estou perfeitamente bem com todas as pessoas que estão andando por aí e apenas olhando para as nuvens e olhando para as estrelas e dizem, eu quero para ir lá, mas estou olhando para o chão e quero consertar o buraco que está bem na minha frente antes de eu cair. "*-Linus Torvalds
 
