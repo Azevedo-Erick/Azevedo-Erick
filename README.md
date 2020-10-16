@@ -6,6 +6,7 @@
     </tr>   
 </table>
 </center>  
+<hr>
 **Olá! Boas vindas :)**<img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px" style="max-width:100%;">
 ![](https://komarev.com/ghpvc/?username=Azevedo-Erick&style=flat-square&color=blue)
 <hr>
@@ -20,7 +21,7 @@
 <hr>
 Linguagens e ferramentas(geral):
 
-
+![](https://komarev.com/ghpvc/?username=Azevedo-Erick&style=flat-square&color=blue)
 
 <!--
 -->
