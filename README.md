@@ -8,11 +8,11 @@
 </table>
 </center>  
 <hr>
-**Olá! Boas vindas :)**:wave:
+__Olá! Boas vindas :)__:wave:
 
 **Um pouco sobre mim:**
 <ul>
-<li>Diria que possuo muito interesse em atuar no mercado mobile e tenho estudado **React** para isso, sou graduando em **Sistemas de Informação**. Possuo exatamente **18 anos** e tento aprender ao menos um pouquinho diariamente aqui no Github;</li>
+<li>Diria que possuo muito interesse em atuar no mercado mobile e tenho estudado **React** para isso, sou graduando em **Sistemas de Informação**. Possuo exatamente <b>18 anos</b> e tento aprender ao menos um pouquinho diariamente aqui no Github;</li>
 <li>Sou o tipo de pessoa que não gosta de redes sociais,porém gosta muito de games e lê vez ou outra;</li>
 <li>Alguém para admirar? **Linus Torvalds**, não admiro necessariamente sua maneira de viver, mas sim sua maneira de pensar.</li>
     </ul>
