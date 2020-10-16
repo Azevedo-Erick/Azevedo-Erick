@@ -9,7 +9,6 @@
 </center>  
 <hr>
 <b>Olá! Boas vindas :)</b>:wave:
-![](https://komarev.com/ghpvc/?username=Azevedo-Erick&style=flat-square&color=purpleblue)
 **Um pouco sobre mim:**
 <ul>
 <li>Diria que possuo muito interesse em atuar no mercado mobile e tenho estudado <b>React</b> para isso, sou graduando em <b>Sistemas de Informação</b>. Possuo exatamente <b>18 anos</b> e tento aprender ao menos um pouquinho diariamente aqui no Github;</li>
