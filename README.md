@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">A passionate mobile student from Brazil</h3>
-
+<img align="right" src="./code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azevedo-erick&label=Profile%20views&color=0e75b6&style=flat" alt="azevedo-erick" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Java, C#, Docker**
